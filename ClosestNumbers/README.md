@@ -8,26 +8,40 @@ Given a list of unsorted numbers, can you find the numbers that have the smalles
 ###Input Format###
 There will be two lines of input:
 
-`n - the size of the list`
-`ar - the n numbers of the list`
+```
+n - the size of the list
+```
+```
+ar - the n numbers of the list
+```
 
 ###Output Format###
 Output the pairs of numbers with the smallest difference. If there are multiple pairs, output all of them in ascending order, all on the same line (consecutively) with just a single space between each pair of numbers.
 
 ###Constraints###
-`10 <= n <= 200000`
+```
+10 <= n <= 200000
+```
 
-`-(107) <= x <= (107), x ∈ ar`
+```
+-(107) <= x <= (107), x ∈ ar
+```
 
 ###Sample Input #1###
 
-`10`
+```
+10
+```
 
-`-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854`
+```
+-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854
+```
 
 ###Sample Output #1###
 
-`-20 30`
+```
+-20 30
+```
 
 ###Explanation###
 
@@ -35,13 +49,19 @@ Output the pairs of numbers with the smallest difference. If there are multiple 
 
 ###Sample Input #2###
 
-`12`
+```
+12
+```
 
-`-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854 -520 -470`
+```
+-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854 -520 -470
+```
 
 ###Sample Output #2###
 
-`-520 -470 -20 30`
+```
+-520 -470 -20 30
+```
 
 ###Explanation###
 (-470)-(-520) = 30- (-20) = 50, which is the smallest difference.
