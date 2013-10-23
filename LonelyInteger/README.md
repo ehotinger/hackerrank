@@ -8,15 +8,17 @@ The first line of the input contains an integer N indicating N integers in the a
 
 ## Constraints
 
-`1 <= N < 100`
-`N % 2 = 1 ( N is an odd number )`
-`0 <= i <= 100, ∀ i ∈ A`
+```
+1 <= N < 100
+N % 2 = 1 ( N is an odd number )
+0 <= i <= 100, ∀ i ∈ A
+```
 
 ## Output Format
 
 Output (S) which is the number that occurs only once.
 
-## Examples:
+## Examples
 
 ### 1 element
 
