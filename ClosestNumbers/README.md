@@ -1,54 +1,47 @@
-Lonely Integer
-==============
+Closest Numbers
+===============
+Sorting is often useful as the first step in many different tasks. The most common task may to be make things easier to find later, but there are other uses also.
 
-There are N integers in an array A. All but one integer occurs in pairs. Your task is to find out that number that occurs only once.
+###Challenge###
+Given a list of unsorted numbers, can you find the numbers that have the smallest absolute difference between them? If there are multiple pairs, find them all.
 
 ###Input Format###
+There will be two lines of input:
 
-The first line of the input contains an integer N indicating N integers in the array A. Next line contains N integers each separated by a single space.
-
-###Constraints###
-
-`1 <= N < 100`
-`N % 2 = 1 ( N is an odd number )`
-`0 <= i <= 100, ∀ i ∈ A`
+`n - the size of the list`
+`ar - the n numbers of the list`
 
 ###Output Format###
+Output the pairs of numbers with the smallest difference. If there are multiple pairs, output all of them in ascending order, all on the same line (consecutively) with just a single space between each pair of numbers.
 
-Output (S) which is the number that occurs only once.
+###Constraints###
+`10 <= n <= 200000`
 
-###Sample Input 1:###
+`-(107) <= x <= (107), x ∈ ar`
 
-`1`
+###Sample Input #1###
 
-`1`
+`10`
 
-###Sample Output 1:###
+`-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854`
 
-`1`
+###Sample Output #1###
 
-###Sample Input 2:###
-
-`3`
-
-`1 1 2`
-
-###Sample Output 2:###
-
-`2`
-
-###Sample Input 3:###
-
-`5`
-
-`0 0 1 2 1`
-
-###Sample Output 3:###
-
-`2`
+`-20 30`
 
 ###Explanation###
 
-In the first input, we see only 1 element and that element is the answer (1)
-In the second input, we see 3 elements, 1 is repeated twice, the only other element 2 is the answer
-In the third input, we see 5 elements, 1 and 0 are repeated twice, the other element 2 is the answer
+30- -20 = 50, which is the smallest difference.
+
+###Sample Input #2###
+
+`12`
+
+`-20 -3916237 -357920 -3620601 7374819 -7330761 30 6246457 -6461594 266854 -520 -470`
+
+###Sample Output #2###
+
+`-520 -470 -20 30`
+
+###Explanation###
+(-470)-(-520) = 30- (-20) = 50, which is the smallest difference.
