@@ -20,7 +20,7 @@ A single integer which will be minimum unfairness.
 ```
 2<=N<=105
 2<=K<=N 
-0<= number of candies in each packet <=109
+0<= number of candies in each packet <=10^9
 ```
 
 ###Sample Input:###
