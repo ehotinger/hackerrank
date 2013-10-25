@@ -23,12 +23,12 @@ namespace HackerRank
         {
 
             // Here we check the Match instance.
-            if (Regex.Match(s, @"^([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])$",
-                RegexOptions.IgnoreCase).Success)
+            if (Regex.IsMatch(s, @"^([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])\.([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])$",
+                RegexOptions.IgnoreCase))
             {
                 return "IPv4";
             }
-            else if (Regex.Match(s, @"^(([0-9]|[a-f]){1,4}:){7}([0-9]|[a-f]){1,4}$", RegexOptions.IgnoreCase).Success)
+            else if (Regex.IsMatch(s, @"^(([0-9]|[a-f]){1,4}:){7}([0-9]|[a-f]){1,4}$", RegexOptions.IgnoreCase))
             {
                 return "IPv6";
             }
