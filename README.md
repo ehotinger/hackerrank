@@ -10,3 +10,4 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Encryption](https://www.hackerrank.com/challenges/encryption)
 - [HackerX](https://www.hackerrank.com/contests/oct13/challenges/missile-defend)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
+- [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
