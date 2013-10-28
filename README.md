@@ -14,6 +14,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
+- [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
 - [UK_And_US](https://www.hackerrank.com/submissions/code/948387)
 - [Valid_PAN_Format](https://www.hackerrank.com/challenges/valid-pan-format)
