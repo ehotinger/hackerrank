@@ -16,3 +16,4 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
 - [UK_And_US](https://www.hackerrank.com/submissions/code/948387)
+- [Valid_PAN_Format](https://www.hackerrank.com/challenges/valid-pan-format)
