@@ -15,3 +15,4 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
+- [The British and American Style of Spelling](https://www.hackerrank.com/submissions/code/948387)
