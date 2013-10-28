@@ -13,4 +13,5 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [HackerX](https://www.hackerrank.com/contests/oct13/challenges/missile-defend)
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
+- [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
