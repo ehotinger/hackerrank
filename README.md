@@ -3,6 +3,7 @@ HackerRank
 
 A collection of miscellaneous algorithms and problems in various languages.
 
+- [Alien Username](https://www.hackerrank.com/challenges/alien-username)
 - [Angry Children](https://www.hackerrank.com/contests/oct13/challenges/angry-children)
 - [Angry Children 2](https://www.hackerrank.com/contests/oct13/challenges/angry-children-2)
 - [Candies](https://www.hackerrank.com/challenges/candies)
