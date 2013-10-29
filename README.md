@@ -22,4 +22,5 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
 - [UK_And_US](https://www.hackerrank.com/submissions/code/948387)
+- [UK_And_US_2](https://www.hackerrank.com/challenges/uk-and-us-2)
 - [Valid_PAN_Format](https://www.hackerrank.com/challenges/valid-pan-format)
