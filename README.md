@@ -15,6 +15,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Find A Substring](https://www.hackerrank.com/challenges/find-substring)
 - [Find A Word](https://www.hackerrank.com/challenges/find-a-word)
 - [Find Hacker Rank](https://www.hackerrank.com/challenges/find-hackerrank)
+- [Flowers](https://www.hackerrank.com/challenges/flowers)
 - [HackerRank_Language](https://www.hackerrank.com/challenges/hackerrank-language)
 - [HackerRank_Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
 - [HackerX](https://www.hackerrank.com/contests/oct13/challenges/missile-defend)
