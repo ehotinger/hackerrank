@@ -19,6 +19,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
+- [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
 - [UK_And_US](https://www.hackerrank.com/submissions/code/948387)
 - [Valid_PAN_Format](https://www.hackerrank.com/challenges/valid-pan-format)
