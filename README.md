@@ -11,7 +11,6 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)
 - [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags)
 - [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses)
-- [Encryption](https://www.hackerrank.com/challenges/encryption)
 - [Find A Substring](https://www.hackerrank.com/challenges/find-substring)
 - [Find A Word](https://www.hackerrank.com/challenges/find-a-word)
 - [Find Hacker Rank](https://www.hackerrank.com/challenges/find-hackerrank)
