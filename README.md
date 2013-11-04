@@ -9,6 +9,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Candies](https://www.hackerrank.com/challenges/candies)
 - [Chocolate Feast](https://www.hackerrank.com/contests/oct13/challenges/chocolate-feast)
 - [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)
+- [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns)
 - [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags)
 - [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses)
 - [Encryption](https://www.hackerrank.com/challenges/encryption)
