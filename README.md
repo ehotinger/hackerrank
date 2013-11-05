@@ -21,6 +21,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [HackerRank_Language](https://www.hackerrank.com/challenges/hackerrank-language)
 - [HackerRank_Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)
 - [HackerX](https://www.hackerrank.com/contests/oct13/challenges/missile-defend)
+- [Handshake](https://www.hackerrank.com/challenges/handshake)
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
 - [Minimum Draws](https://www.hackerrank.com/challenges/minimum-draws)
