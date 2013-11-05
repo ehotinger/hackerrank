@@ -12,6 +12,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns)
 - [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags)
 - [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses)
+- [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights)
 - [Encryption](https://www.hackerrank.com/challenges/encryption)
 - [Find A Substring](https://www.hackerrank.com/challenges/find-substring)
 - [Find A Word](https://www.hackerrank.com/challenges/find-a-word)
