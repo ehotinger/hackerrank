@@ -4,6 +4,7 @@ HackerRank
 A collection of miscellaneous algorithms and problems in various languages.
 
 - [Alien Username](https://www.hackerrank.com/challenges/alien-username)
+- [Anagram](https://www.hackerrank.com/challenges/anagram)
 - [Angry Children](https://www.hackerrank.com/contests/oct13/challenges/angry-children)
 - [Angry Children 2](https://www.hackerrank.com/contests/oct13/challenges/angry-children-2)
 - [Candies](https://www.hackerrank.com/challenges/candies)
@@ -24,6 +25,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Handshake](https://www.hackerrank.com/challenges/handshake)
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
+- [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)
 - [Minimum Draws](https://www.hackerrank.com/challenges/minimum-draws)
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
