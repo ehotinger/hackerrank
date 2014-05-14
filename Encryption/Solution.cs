@@ -50,13 +50,14 @@ namespace Encryption
 
             // Go through the grid column by column and print out the results of
             // the grid.
-            for (int k = 0; k < COLUMNS; k++)
+           for (int k = 0; k < COLUMNS; k++)
             {
                 for (int l = 0; l < ROWS; l++)
                 {
                     if (wordGrid[l, k] != null)
                         output += wordGrid[l, k];
                 }
+            output+=" ";
             }
 
             return output;
