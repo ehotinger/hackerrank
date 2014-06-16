@@ -29,6 +29,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
 - [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)
+- [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
 - [Minimum Draws](https://www.hackerrank.com/challenges/minimum-draws)
 - [Pairs](https://www.hackerrank.com/challenges/pairs)
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
