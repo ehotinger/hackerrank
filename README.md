@@ -36,6 +36,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
 - [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
+- [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
 - [UK And US](https://www.hackerrank.com/submissions/code/948387)
 - [UK And US 2](https://www.hackerrank.com/challenges/uk-and-us-2)
 - [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)
