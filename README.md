@@ -36,6 +36,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)
 - [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
 - [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)
+- [Stock Maximize](https://www.hackerrank.com/contests/csback2school-practice/challenges/stockmax)
 - [String Similarity](https://www.hackerrank.com/challenges/string-similarity)
 - [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)
 - [UK And US](https://www.hackerrank.com/submissions/code/948387)
