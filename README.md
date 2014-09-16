@@ -28,7 +28,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Handshake](https://www.hackerrank.com/challenges/handshake)
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
-- [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)
+- [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) and [again](https://www.hackerrank.com/contests/csback2school-practice/challenges/lonely-integer)
 - [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
 - [Minimum Draws](https://www.hackerrank.com/challenges/minimum-draws)
