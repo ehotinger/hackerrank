@@ -18,6 +18,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Filling Jars](https://www.hackerrank.com/challenges/filling-jars)
 - [Find A Substring](https://www.hackerrank.com/challenges/find-substring)
 - [Find A Word](https://www.hackerrank.com/challenges/find-a-word)
+- [Find Digits](https://www.hackerrank.com/challenges/find-digits)
 - [Find Hacker Rank](https://www.hackerrank.com/challenges/find-hackerrank)
 - [Flowers](https://www.hackerrank.com/challenges/flowers)
 - [Gem Stones](https://www.hackerrank.com/challenges/gem-stones)
