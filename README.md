@@ -7,6 +7,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Anagram](https://www.hackerrank.com/challenges/anagram)
 - [Angry Children](https://www.hackerrank.com/contests/oct13/challenges/angry-children)
 - [Angry Children 2](https://www.hackerrank.com/contests/oct13/challenges/angry-children-2)
+- [Bash Tutorials](https://www.hackerrank.com/domains/shell/bash)
 - [Candies](https://www.hackerrank.com/challenges/candies)
 - [Chocolate Feast](https://www.hackerrank.com/contests/oct13/challenges/chocolate-feast)
 - [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)
