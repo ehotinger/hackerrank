@@ -28,6 +28,7 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [HackerX](https://www.hackerrank.com/contests/oct13/challenges/missile-defend)
 - [Halloween Party](https://www.hackerrank.com/challenges/halloween-party)
 - [Handshake](https://www.hackerrank.com/challenges/handshake)
+- [Intro to Text Processing Utilities](https://www.hackerrank.com/domains/shell/textpro)
 - [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)
 - [Is Fibo](https://www.hackerrank.com/challenges/is-fibo)
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) and [again](https://www.hackerrank.com/contests/csback2school-practice/challenges/lonely-integer)
