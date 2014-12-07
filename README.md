@@ -8,6 +8,8 @@ A collection of miscellaneous algorithms and problems in various languages.
 - [Angry Children](https://www.hackerrank.com/contests/oct13/challenges/angry-children)
 - [Angry Children 2](https://www.hackerrank.com/contests/oct13/challenges/angry-children-2)
 - [Bash Tutorials](https://www.hackerrank.com/domains/shell/bash)
+- [Basic Quiz 1](https://www.hackerrank.com/challenges/basic-algo-quiz-1)
+- [Basic Quiz 2](https://www.hackerrank.com/challenges/data-structures-quiz-2)
 - [Candies](https://www.hackerrank.com/challenges/candies)
 - [Chocolate Feast](https://www.hackerrank.com/contests/oct13/challenges/chocolate-feast)
 - [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)
