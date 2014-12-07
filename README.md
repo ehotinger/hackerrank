@@ -4,6 +4,7 @@ HackerRank
 A collection of miscellaneous algorithms and problems in various languages.
 
 - [Alien Username](https://www.hackerrank.com/challenges/alien-username)
+- [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Anagram](https://www.hackerrank.com/challenges/anagram)
 - [Angry Children](https://www.hackerrank.com/contests/oct13/challenges/angry-children)
 - [Angry Children 2](https://www.hackerrank.com/contests/oct13/challenges/angry-children-2)
