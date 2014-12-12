@@ -3,6 +3,7 @@ HackerRank
 
 A collection of miscellaneous algorithms and problems in various languages.
 
+- [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)
 - [Alien Username](https://www.hackerrank.com/challenges/alien-username)
 - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 - [Anagram](https://www.hackerrank.com/challenges/anagram)
