@@ -1,9 +1,9 @@
 # Simple Array Sum
 - HackerRank link: [hackerrank.com/challenges/simple-array-sum](https://www.hackerrank.com/challenges/simple-array-sum)
-- Difficulty: Easy
-- Solution(s) added in: Haskell
+- Difficulty: **Easy**
+- Solution added: **Haskell**
 
-# Solution(s)
+# Solution
 ## Haskell
 ```haskell
 main = do
