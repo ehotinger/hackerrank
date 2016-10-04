@@ -27,10 +27,3 @@ Then, we ask user input. Both `a` and `b` read Integer from the IO.
     print (a + b)
 ```
 Last, we simply `print` the sum of `a` and `b`. Why we use `print` instead of `putStrLn`? Because it's a **number**. That's it!
-
-## Fsharp
-You may explain here...
-
-# EOF
-You may add your own solution with your own favorite language.
-Apologize for my bad English, I'm really glad if you want to correct it.
