@@ -41,7 +41,3 @@ Like that.
   print $ sum list
 ```
 Last, we print sum of the array (List in Haskell). The `sum` function summing all the value of the List.
-
-# EOF
-You may add your own solution with your own favorite language.
-Apologize for my bad English, I'm really glad if you want to correct it.
