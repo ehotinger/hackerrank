@@ -2,24 +2,24 @@
 #include <vector>
 using namespace std;
 
-int GetRequiredCandies(vector<int> Students) {
-    int N = Students.size();
-    int TotalCandies = 0;
+long long GetRequiredCandies(vector<long long> Students) {
+    long long N = Students.size();
+    long long TotalCandies = 0;
 
-    vector<int> Left = vector<int>(N, 1);
-    vector<int> Right = vector<int>(N, 1);
+    vector<long long> Left = vector<long long>(N, 1);
+    vector<long long> Right = vector<long long>(N, 1);
     
-    for (int i = N - 2; i >= 0; i--) {
+    for (long long i = N - 2; i >= 0; i--) {
         if (Students[i + 1] < Students[i])
             Right[i] = 1 + Right[i + 1];
     }
 
-    for (int i = 1; i < N; i++) {
+    for (long long i = 1; i < N; i++) {
         if (Students[i - 1] < Students[i])
             Left[i] = 1 + Left[i - 1];
     }
 
-    for (int i = 0; i < N; i++) {
+    for (long long i = 0; i < N; i++) {
         TotalCandies += max(Right[i], Left[i]);
     }
 
@@ -27,12 +27,12 @@ int GetRequiredCandies(vector<int> Students) {
 }
 
 int main() {
-    int N, Score;
+    long long N, Score;
     cin >> N;
 
-    vector<int> Students;
+    vector<long long> Students;
 
-    for (int i = 0; i < N; i++) {
+    for (long long i = 0; i < N; i++) {
         cin >> Score;
         Students.push_back(Score);
     }
