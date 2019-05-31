@@ -1,8 +1,6 @@
-HackerRank
-==========
+# HackerRank
 
 This repository holds solutions in various languages for miscellaneous problems from HackerRank.
 
-It's mostly used for practicing random things and learning new languages, but I'll happily accept any pull requests if you want to add a valid solution in your favorite language.
 
-If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/ehotinger/HackerRank/issues) and I'll check it out.
+Feel free to open PRs to add more solutions and/or solutions for different languages. However, PRs with code that isn't commented sufficiently for others to easily understand the algorithms and/or data structures will be rejected.
